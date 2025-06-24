@@ -16,7 +16,7 @@ const int ledPin1 = 2;  // Cambia según tu configuración
 const int ledPin2 = 3;  // Cambia según tu configuración
 
 // Identificador del equipo
-const String deviceId = "Unitec_Ecatepec_01";
+const String deviceId = "Unitec_Ecatepec_02";
 
 WebServer server(80);
 
@@ -101,7 +101,7 @@ void handleRoot() {
     </style>
   </head>
   <body>
-    <h1>Unitec Ecatepec</h1>
+    <h1>Unitec Ecatepec - Skill Education 2025</h1>
     <h2>Control de LEDs</h2>
     
     <div>

@@ -9,10 +9,10 @@
  
 <img src="https://github.com/raymundosoto/Servidor_ESP32_Encendido_leds_remoto/blob/main/image.png" width="900 height= 400">
 
-- Para probar la publicación de status usa
-
-"" curl.exe -X POST "raymundoss.pythonanywhere.com/update_status" `
+- Para probar la publicación de status usa en Powershell de windows
+```
+ curl.exe -X POST "raymundoss.pythonanywhere.com/update_status" `
      -H "Content-Type: application/json" `
      -d '{\"device_id\": \"Raymundo\", \"led1_status\": true, \"led2_status\": false}'
-""
+```
 

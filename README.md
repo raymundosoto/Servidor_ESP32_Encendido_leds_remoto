@@ -4,6 +4,7 @@
  El circuito usado es 
  - 
  ![imagen](https://github.com/user-attachments/assets/fea6dd00-2568-45e3-9b3d-257bab78ae82)
+ <img src="https://github.com/raymundosoto/Servidor_ESP32_Encendido_leds_remoto/blob/main/image.png" width="500 height= 400">
 
  Ejemplo de los eventos registrados
  
